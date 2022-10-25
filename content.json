@@ -1,4 +1,19 @@
 {
-    "welcome": "hi, due to sanctions spotify has leave russia however demand for good music still persists so i can help you get started to listen and download new music \n\n u ready?",
-    "welcome_reply_button": "get started to download new music! 🚀"
+    "start_message": [
+        {
+            "welcome": "👋 Hi, due to sanctions Spotify has leave Russian Federation, however demand for good music still persists so I can help you get started to listen and download new music! \n\n Are you ready?",
+            "welcome_reply_button": "Get started to download new music! 🚀"
+        }
+    ],
+    "song_name": [
+        {
+            "ask_for_a_song_name": "🎉 Good, at first send me a song name in a format: \n\n `artist - song_name`"
+        }
+    ],
+    "other": [
+        {
+            "help_message": "*Command list:*\n\n/start - Start to find and download new music\n/download - Download new music from audio streaming\n/help - The command list",
+            "incorrect_message": "💥 Oops… I don't get it. Try again or type /help"
+        }
+    ]
 }
